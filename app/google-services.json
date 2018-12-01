@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "76487846954",
+    "firebase_url": "https://fir-4itf-5d3f7.firebaseio.com",
+    "project_id": "fir-4itf-5d3f7",
+    "storage_bucket": "fir-4itf-5d3f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76487846954:android:15f0cb3dfb764679",
+        "android_client_info": {
+          "package_name": "arvin.delacruz.com.delacruzarvinexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76487846954-sl9khpr96s6s2erh0pp16gok8ujihb36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arvin.delacruz.com.delacruzarvinexam2",
+            "certificate_hash": "541dc850bc47ce5ee0919e3960fcd4c9f62fed4b"
+          }
+        },
+        {
+          "client_id": "76487846954-lm879o3nocc5p6q94b6gr18e6s7ltm8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh9zzOqq7W3RpWNZFfjEaZZKQH7DnQvVU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76487846954-lm879o3nocc5p6q94b6gr18e6s7ltm8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
